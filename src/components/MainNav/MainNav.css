@@ -1,0 +1,17 @@
+nav {
+    margin: 1.5%;
+}
+.navLink {
+    padding: .5% 1%;
+    margin: 1%;
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: seagreen;
+    border-radius: 3rem;
+}
+.navLink:hover {
+    color: rgb(36, 48, 16);
+    background-color: rgb(32, 194, 141);
+}
